@@ -2,4 +2,4 @@ Clustering
 ===========
 
 
-This part include a implementation of clustering papers.
+This part includes an implementations of clustering papers.
