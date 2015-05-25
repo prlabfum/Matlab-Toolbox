@@ -48,7 +48,7 @@ GIT
 
 You can check the latest sources with the command::
 
-    git clone https://github.com/prlabfum/MatlabToolbox/MatlabToolbox.git
+    git clone https://github.com/prlabfum/Matlab-Toolbox/Matlab-Toolbox.git
 
 or if you have write privileges::
 
