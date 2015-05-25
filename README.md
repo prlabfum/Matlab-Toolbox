@@ -1,5 +1,3 @@
-.. -*- mode: rst -*-
-
 Pattern Recognition Matlab Toolbox
 ==================================
 
