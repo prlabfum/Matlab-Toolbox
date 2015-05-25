@@ -10,6 +10,8 @@ at Ferdowsi University of Mashad (Iran).
 It is currently maintained by a team of volunteers.
 
 
+
+
 Important links
 ===============
 
@@ -17,14 +19,20 @@ Important links
 
 
 
+
+
 Dependencies
 ============
 
-scikit-learn is tested to work under MATLAB 2010 or higher.
+This Toolbox is tested to work under MATLAB 2010 or higher.
+
+
 
 
 Use
 =======
+
+
 
 
 
@@ -45,6 +53,8 @@ You can check the latest sources with the command::
 or if you have write privileges::
 
     git clone git@github.com:MatlabToolbox/MatlabToolbox.git
+    
+    
 
 
 Contributing
