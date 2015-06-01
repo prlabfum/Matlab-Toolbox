@@ -52,7 +52,7 @@ You can check the latest sources with the command::
 
 or if you have write privileges::
 
-    git clone git@github.com:MatlabToolbox/MatlabToolbox.git
+    git clone git@github.com:Matlab-Toolbox/Matlab-Toolbox.git
     
     
 
